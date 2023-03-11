@@ -1,2 +1,2 @@
-# darwinvega.github.io
+# Darwin Izquierdo Vega
 personal website
